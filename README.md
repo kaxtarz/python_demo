@@ -77,7 +77,3 @@ Selenium Official Website
 Python Official Website
 Visual Studio Code
 Please note that this README provides a basic setup guide. Depending on your specific project and requirements, you may need to install additional libraries or configure WebDriver for other browsers. Be sure to refer to the documentation of the tools and libraries you're using for more advanced usage.
-
-css
-
-You can copy and paste the above Markdown code into a Markdown editor or a README.md file in your project repository.
