@@ -1,3 +1,4 @@
+
 # Python Selenium Automation Setup and Execution Guide
 
 This guide provides step-by-step instructions on how to set up the Python environment, install Selenium, configure WebDriver for browser automation, and run a sample script using Visual Studio Code (VSC).
@@ -37,9 +38,8 @@ Open a terminal or command prompt.
 Install Selenium using pip, which is the Python package manager:
 
 bash
-
+Copy code
 pip install selenium
-
 4. Download WebDriver
 To automate web browsers, you'll need the appropriate WebDriver for the browser you plan to use.
 
@@ -65,7 +65,7 @@ Open a terminal within Visual Studio Code (Ctrl+`) and navigate to the directory
 Run your Python script using the following command:
 
 bash
-
+Copy code
 python your_script.py
 Replace your_script.py with the actual name of your Python script.
 
@@ -76,5 +76,8 @@ Selenium Official Website
 Python Official Website
 Visual Studio Code
 Please note that this README provides a basic setup guide. Depending on your specific project and requirements, you may need to install additional libraries or configure WebDriver for other browsers. Be sure to refer to the documentation of the tools and libraries you're using for more advanced usage.
+
+css
+Copy code
 
 You can copy and paste the above Markdown code into a Markdown editor or a README.md file in your project repository.
