@@ -38,7 +38,7 @@ Open a terminal or command prompt.
 Install Selenium using pip, which is the Python package manager:
 
 bash
-Copy code
+
 pip install selenium
 4. Download WebDriver
 To automate web browsers, you'll need the appropriate WebDriver for the browser you plan to use.
@@ -65,7 +65,7 @@ Open a terminal within Visual Studio Code (Ctrl+`) and navigate to the directory
 Run your Python script using the following command:
 
 bash
-Copy code
+
 python your_script.py
 Replace your_script.py with the actual name of your Python script.
 
